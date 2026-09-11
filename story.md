@@ -18,7 +18,7 @@ _Introduce a major event or revelation that changes the character’s understand
 
 ## Part 5 — The Rising Stakes
 
-_Increase the consequences of failure by placing the character in a more difficult situation or forcing them to risk something important._
+Spark knows that soon he will have to make a difficult choice, either he must choose to save his precious toy, or save the life of his owner.
 
 ## Part 6 — The Major Confrontation
 
