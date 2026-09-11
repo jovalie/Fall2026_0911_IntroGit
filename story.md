@@ -1,5 +1,10 @@
 # Story Template
 
+
+## Character introduction
+
+Spark was a crazy dog that can talk
+
 ## Part 1 — The Beginning
 
 *Introduce the main character, establish where and when the story takes place, and show the character’s situation before the main problem begins.*
