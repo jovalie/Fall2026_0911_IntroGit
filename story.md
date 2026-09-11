@@ -1,5 +1,10 @@
 # Story Template
 
+##Character Introduction
+
+Spark is a crazy dog that can talk.
+
+
 ## Part 1 — The Beginning
 
 *Introduce the main character, establish where and when the story takes place, and show the character’s situation before the main problem begins.*
@@ -23,6 +28,9 @@ _Increase the consequences of failure by placing the character in a more difficu
 ## Part 6 — The Major Confrontation
 
 _Put the character directly against the central problem, opponent, or difficult choice and show what they do when avoiding the conflict is no longer possible._
+
+Spark must convince its owner that it is not a crazy dog and that having a speaking dog is a super cool thing. 
+
 
 ## Part 7 — The Final Choice
 
