@@ -14,7 +14,11 @@ _Introduce an obstacle that makes the character’s goal more difficult and show
 
 ## Part 4 — The Turning Point
 
-_Introduce a major event or revelation that changes the character’s understanding of the situation or significantly alters what happens next._
+Spark paused for a moment, and looked up at the sky. A large talking bird with
+yellow feathers flew overhead and spoke aloud the magic phrase, which was the
+alphabet pronounced out loud as if it was one word "Abcdefghijklmnopqrstuvwxyz"
+
+Spark opened his mouth in astonishment. "That's it!"
 
 ## Part 5 — The Rising Stakes
 
