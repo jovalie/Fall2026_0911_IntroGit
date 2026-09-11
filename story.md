@@ -36,14 +36,10 @@ Increase the consequences of failure by placing the character in a more difficul
 
 Put the character directly against the central problem, opponent, or difficult choice and show what they do when avoiding the conflict is no longer possible.
 
-## Part 10 — The Consequences
-
-Show what happens as a result of the character’s major confrontation and reveal how the outcome changes the character or their situation.
-
-## Part 11 — The Final Choice
+## Part 10 — The Final Choice
 
 Give the character one final decision, action, or realization that determines how the central conflict will ultimately be handled.
 
-## Part 12 — The Ending
+## Part 11 — The Ending
 
 Either resolve the main conflict and show what happens afterward, or end with an unanswered question, revelation, or new threat that leaves the story open for what comes next.
