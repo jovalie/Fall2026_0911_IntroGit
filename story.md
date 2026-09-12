@@ -37,6 +37,9 @@ Spark knows that soon he will have to make a difficult choice, either he must ch
 
 _Put the character directly against the central problem, opponent, or difficult choice and show what they do when avoiding the conflict is no longer possible._
 
+Spark must convince its owner that it is not a crazy dog and that having a speaking dog is a super cool thing. 
+
+
 ## Part 7 — The Final Choice
 
 _Give the character one final decision, action, or realization that determines how the central conflict will ultimately be handled._
