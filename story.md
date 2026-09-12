@@ -30,4 +30,4 @@ _Give the character one final decision, action, or realization that determines h
 
 ## Part 8 — The Ending
 
-_Either resolve the main conflict and show what happens afterward, or end with an unanswered question, revelation, or new threat that leaves the story open for what comes next._
+On his deathbed, Spark tells his grandkids that he's leaving all his possessions to his third wife - the final act of his unpredictable life. All those who ever knew him resented him for the of their lives. Rest In Peace Spark. He will not be missed.
