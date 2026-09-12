@@ -7,6 +7,8 @@ Spark was a crazy dog that can talk
 
 ## Part 1 — The Beginning
 
+Spark, the spunky dog, comes out of his kenel one afternoon to discover his owner, Shabby Jim, passed out on the patio.
+
 *Introduce the main character, establish where and when the story takes place, and show the character’s situation before the main problem begins.*
 
 ## Part 2 — The Goal
