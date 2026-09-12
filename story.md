@@ -1,9 +1,9 @@
 # Story Template
 
-##Character Introduction
 
-Spark is a crazy dog that can talk.
+## Character introduction
 
+Spark was a crazy dog that can talk
 
 ## Part 1 — The Beginning
 
@@ -38,4 +38,8 @@ _Give the character one final decision, action, or realization that determines h
 
 ## Part 8 — The Ending
 
-_Either resolve the main conflict and show what happens afterward, or end with an unanswered question, revelation, or new threat that leaves the story open for what comes next._
+
+sfjlksjdl
+
+
+Either resolve the main conflict and show what happens afterward, or end with an unanswered question, revelation, or new threat that leaves the story open for what comes next._
