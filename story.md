@@ -42,7 +42,7 @@ Spark must convince its owner that it is not a crazy dog and that having a speak
 
 ## Part 7 — The Final Choice
 
-_Give the character one final decision, action, or realization that determines how the central conflict will ultimately be handled._
+Spark needs to decide whether or not he'll save the world. He uses his speaking skills to save everyone!
 
 ## Part 8 — The Ending
 
