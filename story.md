@@ -19,6 +19,8 @@ _Show what the main character wants to accomplish in response to the problem and
 
 _Introduce an obstacle that makes the character’s goal more difficult and show how the character responds to it._
 
+Spark sees the mailman. He does not like the mailman.
+
 ## Part 4 — The Turning Point
 
 _Introduce a major event or revelation that changes the character’s understanding of the situation or significantly alters what happens next._
